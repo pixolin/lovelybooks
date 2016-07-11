@@ -159,7 +159,7 @@ class LBsettings {
 				case 'bgcolor':
 				case 'acolor':
 				case 'pcolor':
-					$new_input[ $key ] = sanitize_hex_color( $val );
+					$new_input[ $key ] = sanitize_text_field( $val );
 					break;
 			}
 		}
