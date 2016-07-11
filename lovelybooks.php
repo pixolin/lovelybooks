@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: LovelyBooks Sidebar Widget
-Version: 0.1
+Version: 0.2
 Description: Adds Widget for LovelyBooks. Please enter your User ID and preferred color settings in the <a href="options-general.php?page=lovelybooks">settings page</a>. Then drag the LovelyBooks-Widget in the desired widget area.
 Author: Bego Mario Garde
 Author URI: https://pixolin.de
